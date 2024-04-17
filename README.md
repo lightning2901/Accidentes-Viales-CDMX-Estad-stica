@@ -10,6 +10,10 @@ En este proyecto se plantea utilizar los conocimientos y métodos de la estadís
 
 Lo que se plantea demostrar como objetivos del proyecto:
 ¿Hay alguna tendencia en la distribución de eventos viales según el día de la semana?
+
+
 ¿Cuál es el tipo de intersección vial más propenso a sufrir accidentes?
+
+
 ¿Existe alguna correlación entre la clasificación de la vialidad y la gravedad de los eventos viales?
 
