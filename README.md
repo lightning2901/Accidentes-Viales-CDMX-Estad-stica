@@ -9,6 +9,8 @@ En este proyecto se plantea utilizar los conocimientos y métodos de la estadís
 # Objetivos
 
 Lo que se plantea demostrar como objetivos del proyecto:
+
+
 ¿Hay alguna tendencia en la distribución de eventos viales según el día de la semana?
 
 
